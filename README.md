@@ -1,7 +1,7 @@
 # kraky-lite
 
 # Components
-| Components | Functionality |
+| Components | Name |
 |--------|----------|
 | Esp32 | s3 wroom 1 n4r2 |
 | Sub-GHz | cc1101 |
