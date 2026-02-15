@@ -3,6 +3,7 @@
 Kraky lite is a smaller version of kraky focused only on wifi, bluetooth and sub-GHz frequencies.
 I've decided to do it so i can learn SMD sodering with a simpler project. 
 This project can be used for learning the basics of wifi, bluetooth and sub-GHz frequencies attacks and protections.
+
 ---
 
 
