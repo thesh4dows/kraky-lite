@@ -27,7 +27,8 @@ This project can be used for learning the basics of wifi, bluetooth and sub-GHz 
 
 ## WIRING DIAGRAM
 
-<img width="817" height="784" alt="image" src="https://github.com/user-attachments/assets/9afa2436-3a09-4bda-a834-7c77153b4f00" />
+
+<img width="803" height="826" alt="Screenshot 2026-02-16 154423" src="https://github.com/user-attachments/assets/284b548d-74a8-4908-bde3-faa1dc0de5ae" />
 
 
 
@@ -36,6 +37,7 @@ This project can be used for learning the basics of wifi, bluetooth and sub-GHz 
 
 ## PCB 
 
+<img width="840" height="825" alt="Screenshot 2026-02-16 154357" src="https://github.com/user-attachments/assets/c0ae297e-e571-40dd-82da-9ff99f48d697" />
 
 
 
