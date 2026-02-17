@@ -37,7 +37,8 @@ This project can be used for learning the basics of wifi, bluetooth and sub-GHz 
 
 ## PCB 
 
-<img width="840" height="825" alt="Screenshot 2026-02-16 154357" src="https://github.com/user-attachments/assets/c0ae297e-e571-40dd-82da-9ff99f48d697" />
+<img width="701" height="696" alt="image" src="https://github.com/user-attachments/assets/34d021a7-6188-4223-a4b7-70574f544157" />
+
 
 
 
