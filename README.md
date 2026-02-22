@@ -14,7 +14,7 @@ This project can be used for learning the basics of wifi, bluetooth and sub-GHz 
 | Logic board | **ESP32-S3 N16R8** |
 | Sub-GHz | **CC1101** |
 | Wifi/bluetooth | **NFR24L01** |
-| Display | **Oled Display** |
+| Display | **TFT Display** |
 
 
 ---
@@ -28,7 +28,7 @@ This project can be used for learning the basics of wifi, bluetooth and sub-GHz 
 ## WIRING DIAGRAM
 
 
-<img width="803" height="826" alt="Screenshot 2026-02-16 154423" src="https://github.com/user-attachments/assets/284b548d-74a8-4908-bde3-faa1dc0de5ae" />
+<img width="937" height="897" alt="Screenshot 2026-02-22 114549" src="https://github.com/user-attachments/assets/cf4b0945-6dcb-497e-a300-d1639beea8fd" />
 
 
 
@@ -38,8 +38,8 @@ This project can be used for learning the basics of wifi, bluetooth and sub-GHz 
 ## PCB 
 
 
-<img width="606" height="573" alt="Screenshot 2026-02-21 102325" src="https://github.com/user-attachments/assets/a37790d6-ac34-45c9-9c36-12789fcac23c" />
 
+<img width="858" height="815" alt="Screenshot 2026-02-22 114401" src="https://github.com/user-attachments/assets/f645134d-5a62-4605-a3cf-6a5b767a6fc4" />
 
 
 
